@@ -25,4 +25,9 @@ Added ul> ol> li> and nested lists
 # 29
 a> tag
 
+# 30 
+image> tag. no closing tag
+src= sores of image
+alt= description for image
+
 
